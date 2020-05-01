@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Minbur Header Menu",
+  "SystemName": "Widgets.MinburHeaderMenu",
+  "Version": "1.38",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Minbur Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.MinburHeaderMenu.dll",
+  "Description": "*"
+}
